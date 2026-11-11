@@ -34,7 +34,7 @@ const STORIES: Story[] = [
     index: "01",
     title: "Pertemuan",
     body:
-      "Tidak ada yang kebetulan di dunia ini. Semua sudah tersusun rapi oleh Sang Maha Kuasa; kita tidak bisa memilih kepada siapa kita akan jatuh cinta. Kami bertemu pada tahun 2007 di SD yang sama — tidak ada yang pernah menyangka bahwa pertemuan itu membawa kami pada suatu ikatan cinta suci hari ini.",
+      "Tidak ada yang kebetulan di dunia ini. Semua sudah tersusun rapi oleh Sang Maha Kuasa; kita tidak bisa memilih kepada siapa hati ini berlabuh. Kami bertemu pada tahun 2007 di SD yang sama — tidak ada yang pernah menyangka bahwa pertemuan itu membawa kami pada suatu ikatan yang suci hari ini.",
     delay: "[animation-delay:100ms]",
   },
   {
