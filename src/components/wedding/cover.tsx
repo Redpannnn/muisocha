@@ -64,7 +64,7 @@ export function Cover({ mode = "cover", onOpen }: CoverProps) {
         className="anim-fade-in absolute inset-0 z-0 [animation-delay:150ms]"
       >
         <Image
-          src="/images/wallpaper-section1.jpg"
+          src="/images/wp_new.jpg"
           alt=""
           fill
           priority
