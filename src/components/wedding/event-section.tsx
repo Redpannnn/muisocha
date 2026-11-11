@@ -66,7 +66,7 @@ export function EventSection() {
                 Akad
               </h3>
               <p className="mt-4 text-[11px] font-medium uppercase tracking-[0.18em] text-[#3a4a78]">
-                15 Maret 2026
+                15 Maret 2027
               </p>
               <p className="mt-1.5 text-sm font-semibold text-[#1c2a52]">
                 08.00 &ndash; selesai
@@ -96,7 +96,7 @@ export function EventSection() {
                 Resepsi
               </h3>
               <p className="mt-4 text-[11px] font-medium uppercase tracking-[0.18em] text-[#3a4a78]">
-                16 Maret 2026
+                16 Maret 2027
               </p>
               <p className="mt-1.5 text-sm font-semibold text-[#1c2a52]">
                 08.00 &ndash; 12.00
