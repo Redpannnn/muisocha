@@ -46,7 +46,7 @@ export function ClosingSection() {
       {/* === Latar (SAMA dengan section 2: wallpaper mempelai) === */}
       <div aria-hidden className="absolute inset-0 z-0">
         <Image
-          src="/images/wallpaper-section1.jpg"
+          src="/images/wp_new.jpeg"
           alt=""
           fill
           sizes="100vw"
